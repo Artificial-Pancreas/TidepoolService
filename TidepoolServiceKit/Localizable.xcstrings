@@ -120,8 +120,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration Error"
+            "state" : "translated",
+            "value" : "Lỗi cấu hình"
           }
         },
         "yy-YY" : {
@@ -257,8 +257,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Missing DataSet Id"
+            "state" : "translated",
+            "value" : "Thiếu Id bộ dữ liệu"
           }
         },
         "yy-YY" : {
@@ -531,7 +531,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -668,8 +668,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tidepool Service Authorization"
+            "state" : "translated",
+            "value" : "Ủy quyền dịch vụ Tidepool"
           }
         },
         "yy-YY" : {
@@ -805,8 +805,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
+            "state" : "translated",
+            "value" : "Dịch vụ Tidepool không còn được ủy quyền. Vui lòng vào cài đặt Dịch vụ Tidepool và xác thực lại."
           }
         },
         "yy-YY" : {
