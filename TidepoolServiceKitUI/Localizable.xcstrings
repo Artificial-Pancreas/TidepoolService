@@ -513,8 +513,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Environment"
+            "state" : "translated",
+            "value" : "Miljö"
           }
         },
         "tr" : {
@@ -650,8 +650,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Logged in as"
+            "state" : "translated",
+            "value" : "Inloggad som"
           }
         },
         "tr" : {
@@ -924,8 +924,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Revoke token"
+            "state" : "translated",
+            "value" : "Återkalla token"
           }
         },
         "tr" : {
@@ -1061,8 +1061,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You are not logged in."
+            "state" : "translated",
+            "value" : "Du är inte inloggad."
           }
         },
         "tr" : {
